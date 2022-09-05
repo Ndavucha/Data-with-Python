@@ -1,0 +1,44 @@
+Data with Python RoadMap
+
+1. Basics
+-Structured data: data that can be arranged in rows and columns to make a final clean analysis
+-Unstructured data: data from images, social media, videos, websites etc.
+-Basically, data science is a branch of statistics that deals with the extraction of data from selected sources and trying to make a meaningful analysis out of it. Or in other words…
+                                                 Input(Collecting data)
+                                                            |
+                                                         Analyze
+                                                            |     
+                           Find something useful (make predictions or gather useful insights) 
+
+Areas to get started with python
+●	Loops
+●	Tuples
+●	Lists
+●	Dictionary
+●	Functions
+●	Decision-making statements
+●	OOOPS Concept
+
+Learnpython.org -seems like a good site to learn this.
+
+Tools to use:
+●	Jupiter notebook
+●	Visual Studio Code                     
+
+Python libraries for Data
+
+●	Pandas(Tabular data i.e csv files or big data)
+●	Numpy(Numerical data)
+●	Seaborn (Visualisation)
+●	matplotlib (Visualisation-extended version of matplotlib)
+
+2. Importing Datasets
+3. Cleaning the Data
+4. Data frame manipulation
+5. Summarising the Data
+6. Building machine learning Regression models
+7. Building data pipelines
+8. Databases and SQL for Data Science with Python
+9. Project
+
+

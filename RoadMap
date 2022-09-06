@@ -23,6 +23,20 @@ Learnpython.org -seems like a good site to learn this.
 
 Tools to use:
 ●	Jupiter notebook
+-How to install it… check on    
+       1. Download and install python first. Ensure you check the path box https://www.python.org/downloads/windows/
+       2. Go to This PC > Local disks > Users > user
+       3. Click view on the pane and check the hidden
+       4. Scroll down to AppData > Local > Programs > Python > Python310 > Scripts 
+       5. Click on the address bar and type cmd
+       6. Click enter
+       7. Type pip install jupyter  
+       8. Open a new folder on the desktop, open it and write cmd and press enter on the address bar
+          Type Jupyter notebook
+       9. The copy link provided http://localhost:8888/?token=1259cfbc2827b057a51f7889acfe0a19766f4d82fa01b808
+
+
+
 ●	Visual Studio Code                     
 
 Python libraries for Data

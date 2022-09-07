@@ -35,8 +35,6 @@ Tools to use:
           Type Jupyter notebook
        9. The copy link provided http://localhost:8888/?token=1259cfbc2827b057a51f7889acfe0a19766f4d82fa01b808
 
-
-
 ●	Visual Studio Code                     
 
 Python libraries for Data
@@ -46,7 +44,20 @@ Python libraries for Data
 ●	Seaborn (Visualisation)
 ●	matplotlib (Visualisation-extended version of matplotlib)
 
-2. Importing Datasets
+2. Importing Datasets or CSV
+
+      Follow these steps
+ 1.   import pandas as pd
+ 2.   dataset = pd.read_csv ("filename.csv") 
+      dataset.head()
+                or      
+      import pandas as pd
+      df = pd.read_csv("filename.csv")
+      print(df.to_string()
+
+
+
+
 3. Cleaning the Data
 4. Data frame manipulation
 5. Summarising the Data

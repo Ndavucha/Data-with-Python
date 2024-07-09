@@ -1,2 +1,2 @@
-# Data-with-Python
-#60daysDatawithPython-selftaught
+# Data-with-python
+# What I covered in my introduction face.
